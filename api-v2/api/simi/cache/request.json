@@ -1,0 +1,677 @@
+{
+    "limit": {
+        "117.5.156.213": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664799923846
+            },
+            {
+                "router": "/get/:ask",
+                "count_request": 1,
+                "time_end": 1665063201567
+            }
+        ],
+        "66.220.149.6": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664802673759
+            }
+        ],
+        "171.250.162.244": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664802679573
+            }
+        ],
+        "171.255.175.102": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664802685510
+            }
+        ],
+        "14.252.38.167": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664802687836
+            }
+        ],
+        "42.117.79.241": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664802722584
+            }
+        ],
+        "115.76.51.77": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664802743239
+            }
+        ],
+        "103.74.102.24": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664802786454
+            }
+        ],
+        "15.235.162.58": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664803023121
+            }
+        ],
+        "125.235.61.75": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1664803080190
+            }
+        ],
+        "14.183.100.34": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664803116712
+            }
+        ],
+        "27.79.21.55": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664803394334
+            }
+        ],
+        "14.191.198.148": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1664803520256
+            }
+        ],
+        "27.67.137.56": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1664825949247
+            },
+            {
+                "router": "/get/:55",
+                "count_request": 1,
+                "time_end": 1664826004685
+            },
+            {
+                "router": "/get/:ask",
+                "count_request": 2,
+                "time_end": 1664828179018
+            }
+        ],
+        "27.67.137.186": [
+            {
+                "router": "/get/:ask",
+                "count_request": 4,
+                "time_end": 1664845062376
+            }
+        ],
+        "35.192.37.118": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1665064798869
+            }
+        ],
+        "34.170.154.17": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1665110813387
+            }
+        ],
+        "35.223.191.179": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1665112295075
+            }
+        ],
+        "34.123.203.54": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1665284309793
+            }
+        ],
+        "34.83.199.154": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1665588044727
+            }
+        ],
+        "34.82.131.203": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1665742059209
+            }
+        ],
+        "34.74.191.248": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1665928714303
+            }
+        ],
+        "35.237.214.56": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1666886502619
+            }
+        ],
+        "117.5.157.121": [
+            {
+                "router": "",
+                "count_request": 1,
+                "time_end": 1667291115167
+            }
+        ],
+        "1.53.154.103": [
+            {
+                "router": "",
+                "count_request": 1,
+                "time_end": 1667407858953
+            }
+        ],
+        "104.196.3.125": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1667658365837
+            }
+        ],
+        "34.168.0.145": [
+            {
+                "router": "/get",
+                "count_request": 4,
+                "time_end": 1667670999134
+            }
+        ],
+        "34.105.22.65": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1667787268695
+            }
+        ],
+        "35.227.114.170": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1667841332224
+            }
+        ],
+        "34.168.140.103": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1667894562762
+            }
+        ],
+        "104.154.103.35": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1667906857658
+            }
+        ],
+        "35.199.147.225": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1667909493996
+            }
+        ],
+        "34.66.147.106": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1667984547285
+            }
+        ],
+        "34.145.125.191": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1667996103908
+            }
+        ],
+        "34.138.189.215": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1668011898553
+            }
+        ],
+        "34.74.128.166": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1668431242194
+            }
+        ],
+        "35.203.165.203": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1671038137803
+            }
+        ],
+        "35.227.141.34": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1670328563650
+            }
+        ],
+        "34.139.28.29": [
+            {
+                "router": "/get",
+                "count_request": 5,
+                "time_end": 1670352016539
+            }
+        ],
+        "34.73.150.155": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1670356044984
+            }
+        ],
+        "35.243.158.127": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1670358153104
+            }
+        ],
+        "35.233.204.33": [
+            {
+                "router": "/get",
+                "count_request": 4,
+                "time_end": 1670363197653
+            }
+        ],
+        "104.196.136.251": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670375857114
+            }
+        ],
+        "34.168.139.186": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670463412341
+            }
+        ],
+        "34.82.59.142": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670503064588
+            }
+        ],
+        "34.127.9.26": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1670525189019
+            }
+        ],
+        "34.148.41.192": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1670560166200
+            }
+        ],
+        "34.168.187.68": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670577211171
+            }
+        ],
+        "34.148.118.74": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1670581155630
+            }
+        ],
+        "34.127.85.234": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670581437693
+            }
+        ],
+        "35.230.87.245": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1670589485667
+            }
+        ],
+        "34.73.254.149": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1670587455097
+            }
+        ],
+        "34.68.149.99": [
+            {
+                "router": "/get",
+                "count_request": 4,
+                "time_end": 1670592739927
+            }
+        ],
+        "35.231.254.155": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670593660472
+            }
+        ],
+        "34.122.53.144": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670594389051
+            }
+        ],
+        "34.145.31.128": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1670591395364
+            }
+        ],
+        "34.82.239.86": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670592777547
+            }
+        ],
+        "34.168.32.241": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670601672790
+            }
+        ],
+        "35.231.226.27": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670615548792
+            }
+        ],
+        "34.138.198.108": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1670632012566
+            }
+        ],
+        "34.148.204.229": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670642411944
+            }
+        ],
+        "35.233.245.23": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1670641835770
+            }
+        ],
+        "34.138.68.37": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670643912554
+            }
+        ],
+        "34.168.189.176": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1670728649879
+            }
+        ],
+        "35.196.20.195": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670649499566
+            }
+        ],
+        "34.148.109.60": [
+            {
+                "router": "/get",
+                "count_request": 4,
+                "time_end": 1670649633095
+            }
+        ],
+        "35.247.31.14": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1670663886570
+            }
+        ],
+        "34.148.107.76": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670670188358
+            }
+        ],
+        "34.138.130.77": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670672567463
+            }
+        ],
+        "34.82.224.61": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670734636027
+            }
+        ],
+        "34.138.215.183": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1670800704051
+            }
+        ],
+        "35.238.165.47": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670745293100
+            }
+        ],
+        "35.233.222.85": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1670769739603
+            }
+        ],
+        "34.74.218.158": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670757176209
+            }
+        ],
+        "34.75.44.145": [
+            {
+                "router": "/get",
+                "count_request": 4,
+                "time_end": 1670844494086
+            }
+        ],
+        "34.139.176.242": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1670822476946
+            }
+        ],
+        "34.75.60.94": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1670820366462
+            }
+        ],
+        "34.127.43.30": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670821115742
+            }
+        ],
+        "34.148.61.72": [
+            {
+                "router": "/get",
+                "count_request": 4,
+                "time_end": 1670882112516
+            }
+        ],
+        "35.227.175.70": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670886717803
+            }
+        ],
+        "34.105.4.42": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670910900459
+            }
+        ],
+        "34.73.57.232": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670911325870
+            }
+        ],
+        "34.134.31.0": [
+            {
+                "router": "/get",
+                "count_request": 4,
+                "time_end": 1670941654267
+            }
+        ],
+        "35.203.153.130": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670930533469
+            }
+        ],
+        "34.74.139.15": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670935083366
+            }
+        ],
+        "35.223.17.236": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1670935540932
+            }
+        ],
+        "35.238.243.249": [
+            {
+                "router": "/get",
+                "count_request": 2,
+                "time_end": 1670958609237
+            }
+        ],
+        "35.243.241.169": [
+            {
+                "router": "/get",
+                "count_request": 7,
+                "time_end": 1670986156732
+            }
+        ],
+        "34.145.115.200": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1671019644891
+            }
+        ],
+        "34.75.239.11": [
+            {
+                "router": "/get",
+                "count_request": 4,
+                "time_end": 1671111836505
+            }
+        ],
+        "34.127.36.211": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1671112610012
+            }
+        ],
+        "35.196.143.78": [
+            {
+                "router": "/get",
+                "count_request": 1,
+                "time_end": 1671119669515
+            }
+        ],
+        "34.121.224.195": [
+            {
+                "router": "/get",
+                "count_request": 3,
+                "time_end": 1671125730469
+            }
+        ],
+        "34.148.23.155": [
+            {
+                "router": "/get",
+                "count_request": 4,
+                "time_end": 1671131248071
+            }
+        ]
+    }
+}

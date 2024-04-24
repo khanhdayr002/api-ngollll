@@ -1,0 +1,1105 @@
+{
+    "limit": {
+        "117.5.156.213": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1666022428824
+            },
+            {
+                "router": "/find-hero",
+                "count_request": 2,
+                "time_end": 1665996223468
+            }
+        ],
+        "173.252.111.21": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665723161513
+            }
+        ],
+        "173.252.111.24": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665749030895
+            }
+        ],
+        "173.252.111.7": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665723159680
+            }
+        ],
+        "173.252.127.119": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665712798811
+            }
+        ],
+        "31.13.127.6": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666072555594
+            }
+        ],
+        "69.171.231.3": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666059817261
+            }
+        ],
+        "69.171.231.7": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665712806208
+            }
+        ],
+        "69.171.231.116": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665712806548
+            }
+        ],
+        "69.171.231.1": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665712807403
+            }
+        ],
+        "31.13.127.18": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665712909870
+            }
+        ],
+        "171.255.132.199": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1665715103026
+            }
+        ],
+        "66.220.149.4": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665715313572
+            }
+        ],
+        "66.220.149.117": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665715317414
+            }
+        ],
+        "66.220.149.13": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665726487659
+            }
+        ],
+        "69.171.231.117": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665715321984
+            }
+        ],
+        "66.220.149.23": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1665715324895
+            }
+        ],
+        "66.220.149.7": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665715328423
+            }
+        ],
+        "66.220.149.11": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1665715328838
+            }
+        ],
+        "66.220.149.12": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665715331826
+            }
+        ],
+        "66.220.149.19": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665726493881
+            }
+        ],
+        "66.220.149.16": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665715332026
+            }
+        ],
+        "66.220.149.120": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665715332134
+            }
+        ],
+        "15.235.162.58": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665715428192
+            }
+        ],
+        "173.252.111.22": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1665723146603
+            }
+        ],
+        "173.252.111.14": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665723148240
+            }
+        ],
+        "69.171.249.13": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665723159895
+            }
+        ],
+        "69.171.249.6": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665723161679
+            }
+        ],
+        "173.252.83.10": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665723166137
+            }
+        ],
+        "173.252.83.21": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1665748993657
+            }
+        ],
+        "59.153.246.69": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665723173820
+            }
+        ],
+        "171.226.240.74": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665723263858
+            }
+        ],
+        "34.73.204.196": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1665727376495
+            }
+        ],
+        "173.252.95.11": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665727370428
+            }
+        ],
+        "173.252.95.116": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665727375971
+            }
+        ],
+        "34.82.131.203": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665751534363
+            }
+        ],
+        "14.241.247.18": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665737592190
+            }
+        ],
+        "173.252.83.17": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 3,
+                "time_end": 1665748992005
+            }
+        ],
+        "173.252.83.1": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665745356865
+            }
+        ],
+        "35.203.147.110": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665754219244
+            }
+        ],
+        "173.252.79.9": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665746092702
+            }
+        ],
+        "173.252.79.117": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665746094242
+            }
+        ],
+        "173.252.83.113": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1665747856277
+            }
+        ],
+        "173.252.83.8": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665749000519
+            }
+        ],
+        "183.80.56.23": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 3,
+                "time_end": 1665750054524
+            }
+        ],
+        "173.252.83.4": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 3,
+                "time_end": 1665748996238
+            }
+        ],
+        "173.252.83.23": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665748996981
+            }
+        ],
+        "173.252.83.16": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 3,
+                "time_end": 1665749003196
+            }
+        ],
+        "173.252.111.10": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665749029173
+            }
+        ],
+        "173.252.111.8": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665749034272
+            }
+        ],
+        "31.13.115.10": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665749142142
+            }
+        ],
+        "31.13.115.19": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665749144426
+            }
+        ],
+        "173.252.79.3": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1665751218881
+            }
+        ],
+        "27.67.179.105": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665755017577
+            }
+        ],
+        "34.168.68.184": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1665768631370
+            }
+        ],
+        "35.202.123.135": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1665925596765
+            }
+        ],
+        "34.132.122.121": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665967700553
+            }
+        ],
+        "34.74.191.248": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665992629643
+            },
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1665992677695
+            }
+        ],
+        "173.252.87.15": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665970635548
+            }
+        ],
+        "104.197.65.106": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666000254439
+            },
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1666000254360
+            }
+        ],
+        "173.252.107.5": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665985080985
+            }
+        ],
+        "173.252.107.18": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665985083527
+            }
+        ],
+        "31.13.103.120": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665985624867
+            }
+        ],
+        "173.252.95.120": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1665992434521
+            }
+        ],
+        "173.252.95.24": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665992386669
+            }
+        ],
+        "173.252.95.2": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1665992388878
+            }
+        ],
+        "173.252.95.23": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1665992441370
+            }
+        ],
+        "34.168.20.57": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1666092183154
+            },
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666095039271
+            }
+        ],
+        "34.172.197.38": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666051349618
+            }
+        ],
+        "31.13.127.26": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666050842317
+            }
+        ],
+        "31.13.127.3": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666050843984
+            }
+        ],
+        "115.76.60.44": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666100195283
+            },
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1666095640163
+            }
+        ],
+        "69.171.231.9": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666059817950
+            }
+        ],
+        "173.252.83.6": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666063128047
+            }
+        ],
+        "173.252.83.20": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666063132814
+            }
+        ],
+        "31.13.127.119": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666094304173
+            }
+        ],
+        "173.252.87.7": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666083121093
+            }
+        ],
+        "173.252.87.6": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666083121690
+            }
+        ],
+        "31.13.127.4": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1666094296644
+            }
+        ],
+        "31.13.127.34": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1666094303322
+            }
+        ],
+        "31.13.127.21": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666094304951
+            }
+        ],
+        "34.73.240.89": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666096997501
+            }
+        ],
+        "173.252.107.12": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1666176686636
+            }
+        ],
+        "173.252.107.120": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1666176691488
+            }
+        ],
+        "173.252.107.1": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666176695545
+            }
+        ],
+        "173.252.107.17": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666176695844
+            }
+        ],
+        "117.5.156.177": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1666275332610
+            }
+        ],
+        "123.17.103.139": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666349117554
+            }
+        ],
+        "34.145.89.162": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666361410168
+            }
+        ],
+        "35.222.12.245": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666544077722
+            }
+        ],
+        "34.134.247.141": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666543946647
+            }
+        ],
+        "35.203.142.215": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1666677714760
+            }
+        ],
+        "35.222.117.181": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666864750526
+            }
+        ],
+        "35.196.59.120": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666880560240
+            }
+        ],
+        "34.70.128.63": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666880701275
+            }
+        ],
+        "27.67.43.7": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1666944208709
+            },
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666944248600
+            }
+        ],
+        "35.223.205.210": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666966995339
+            }
+        ],
+        "35.233.234.254": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1666967184276
+            },
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666967237167
+            }
+        ],
+        "27.64.88.136": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1666971379850
+            }
+        ],
+        "34.83.139.193": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1667307070272
+            }
+        ],
+        "35.196.99.191": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1667361889769
+            }
+        ],
+        "1.53.154.103": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1667407857671
+            }
+        ],
+        "34.82.244.124": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1667542217796
+            }
+        ],
+        "34.69.72.72": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1667641715882
+            }
+        ],
+        "171.225.249.47": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1669532604809
+            }
+        ],
+        "171.239.95.8": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1667927860885
+            }
+        ],
+        "34.168.214.78": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1667927881475
+            }
+        ],
+        "34.82.223.19": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1668400379144
+            },
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1668401395870
+            }
+        ],
+        "35.227.71.32": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1668469529826
+            }
+        ],
+        "34.139.36.47": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1668489216876
+            }
+        ],
+        "35.247.95.177": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1668501533157
+            }
+        ],
+        "34.82.24.159": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 3,
+                "time_end": 1668582296189
+            }
+        ],
+        "34.136.223.73": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1668587422705
+            }
+        ],
+        "180.191.214.29": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1668679970425
+            }
+        ],
+        "34.133.17.250": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1668885452755
+            }
+        ],
+        "27.71.107.11": [
+            {
+                "router": "/find-hero",
+                "count_request": 3,
+                "time_end": 1669015678817
+            }
+        ],
+        "34.168.206.96": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1669016492130
+            },
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1669017046640
+            }
+        ],
+        "35.203.168.187": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1669467425693
+            }
+        ],
+        "35.197.17.102": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1669473953443
+            }
+        ],
+        "35.196.158.175": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1669513910330
+            },
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1669513949975
+            }
+        ],
+        "34.83.174.212": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1669522722455
+            }
+        ],
+        "104.199.125.126": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1669534250914
+            }
+        ],
+        "35.247.25.187": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1669601939048
+            }
+        ],
+        "42.112.225.139": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1669602130191
+            }
+        ],
+        "34.168.77.133": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1669648475034
+            }
+        ],
+        "34.139.255.53": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1669689843243
+            }
+        ],
+        "34.83.201.35": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 3,
+                "time_end": 1669980275011
+            }
+        ],
+        "34.139.119.32": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670071192007
+            }
+        ],
+        "130.211.194.244": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1670087032544
+            }
+        ],
+        "34.134.59.3": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670210843844
+            }
+        ],
+        "34.122.102.13": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670221347833
+            }
+        ],
+        "34.105.125.6": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670320157953
+            }
+        ],
+        "34.74.126.252": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1670420745397
+            }
+        ],
+        "34.74.59.153": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670488453641
+            }
+        ],
+        "34.168.189.176": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670666671503
+            },
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1670666688123
+            }
+        ],
+        "14.191.14.188": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670729291517
+            }
+        ],
+        "34.127.85.126": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670729313264
+            }
+        ],
+        "34.73.36.152": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670773434356
+            }
+        ],
+        "34.74.38.144": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 2,
+                "time_end": 1670753266361
+            }
+        ],
+        "34.74.96.66": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1670808493700
+            },
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670808525648
+            }
+        ],
+        "34.148.93.204": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 3,
+                "time_end": 1670810834252
+            }
+        ],
+        "34.172.20.81": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670814981137
+            }
+        ],
+        "34.139.176.242": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670815117702
+            }
+        ],
+        "20.213.102.30": [
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1670859237795
+            }
+        ],
+        "104.196.67.69": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670903287863
+            },
+            {
+                "router": "/find-hero",
+                "count_request": 1,
+                "time_end": 1670903357003
+            }
+        ],
+        "35.227.190.102": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670917439765
+            }
+        ],
+        "34.173.161.109": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670939418405
+            }
+        ],
+        "34.138.76.116": [
+            {
+                "router": "/chi-tiet-tuong",
+                "count_request": 1,
+                "time_end": 1670982509718
+            }
+        ]
+    }
+}

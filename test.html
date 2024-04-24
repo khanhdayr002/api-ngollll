@@ -1,0 +1,222 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    <title>Get-Access-Token</title>
+<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/5qcenVbrhOy8zihcc2aHOWD4/recaptcha__vi.js" crossorigin="anonymous" integrity="sha384-Sm3DOetMFEV4+10N8alZ3HCFEvFiuvqTCHw67x2typIfjzK+nid2ll5rfWfCmy9a"></script><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script><style>.--savior-overlay-transform-reset {
+  transform: none !important;
+}
+.--savior-overlay-z-index-top {
+  z-index: 2147483643 !important;
+}
+.--savior-overlay-position-relative {
+  position: relative;
+}
+.--savior-overlay-overflow-x-visible {
+  overflow-x: visible !important;
+}
+.--savior-overlay-overflow-y-visible {
+  overflow-y: visible !important;
+}
+.--savior-overlay-z-index-reset {
+  z-index: auto !important;
+}
+.--savior-overlay-display-none {
+  display: none !important;
+}
+.--savior-overlay-clearfix {
+  clear: both;
+}
+.--savior-overlay-reset-filter {
+  filter: none !important;
+  backdrop-filter: none !important;
+}
+.--savior-tooltip-host {
+  z-index: 9999;
+  position: absolute;
+  top: 0;
+}
+/*Override css styles for Twitch.tv*/
+main.--savior-overlay-z-index-reset {
+  z-index: auto !important;
+}
+main.--savior-overlay-z-index-top {
+  z-index: auto !important;
+}
+main.--savior-overlay-z-index-top .channel-root__player-container + div,
+main.--savior-overlay-z-index-top .video-player-hosting-ui__container + div {
+  opacity: 0.1;
+}
+/*Dirty hack for facebook big video page e.g: https://www.facebook.com/abc/videos/...*/
+.--savior-backdrop {
+  position: fixed !important;
+  z-index: 2147483642 !important;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0,0,0,0.9);
+}
+.--savior-overlay-twitter-video-player {
+  position: fixed;
+  width: 80%;
+  height: 80%;
+  top: 10%;
+  left: 10%;
+}
+/* Fix conflict css with zingmp3 */
+.zm-video-modal.--savior-overlay-z-index-reset {
+  position: absolute;
+}
+/* Dirty hack for xvideos99 */
+#page #main.--savior-overlay-z-index-reset {
+  z-index: auto !important;
+}
+/* Overlay for ok.ru */
+#vp_w.--savior-overlay-z-index-reset.media-layer.media-layer__video {
+  position: absolute;
+  overflow-y: hidden;
+}
+/* Fix missing controller for tv.naver.com */
+.--savior-overlay-z-index-top.rmc_controller,
+.--savior-overlay-z-index-top.rmc_setting_intro,
+.--savior-overlay-z-index-top.rmc_highlight,
+.--savior-overlay-z-index-top.rmc_control_settings {
+  z-index: 2147483644 !important;
+}
+/* Dirty hack for douyi.com */
+.swiper-wrapper.--savior-overlay-z-index-reset .swiper-slide:not(.swiper-slide-active),
+.swiper-wrapper.--savior-overlay-transform-reset .swiper-slide:not(.swiper-slide-active) {
+  display: none;
+}
+.videoWrap + div > div {
+  pointer-events: unset;
+}
+/* Dirty hack for fpt.ai */
+.mfp-wrap.--savior-overlay-z-index-top {
+  position: relative;
+}
+.mfp-wrap.--savior-overlay-z-index-top .mfp-close {
+  display: none;
+}
+.mfp-wrap.--savior-overlay-z-index-top .mfp-content {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+section.--savior-overlay-z-index-reset>main[role="main"].--savior-overlay-z-index-reset + nav {
+  z-index: -1 !important;
+}
+section.--savior-overlay-z-index-reset>main[role="main"].--savior-overlay-z-index-reset section.--savior-overlay-z-index-reset div.--savior-overlay-z-index-reset ~ div {
+  position: relative;
+}
+div[class^="tiktok"].--savior-overlay-z-index-reset {
+  z-index: 2147483644 !important;
+}
+@-moz-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+</style></head>
+
+<body>
+    <main class="container">
+        <div class="text-center my-4">
+            <h1>Get-Access-Token</h1>
+            <!-- Give a star (you can delete for your own utilisation) -->
+            <span></span>
+        </div>
+
+        <!-- Alert status -->
+        <div id="response-alert" class="alert alert-success d-block" style="word-wrap: break-word;" role="alert">EAAD6V7os0gcBAFwCBmbG2rWuM9NEyEj4yUYIFWnmGwZB1KgAgCOF0ZB2PSiUmOozUCNtXw0wZAZCijIKqGLGc7mtLU65ZCTJKLWn9ZBHWaSBR23OscSYzBPyX0Jkpkukg6oh1LPqx8odd6aJrZB44B951RGUClVhnSfxrGadVtt78TskUfw1wfbHXEtNAQaDHoZD</div>
+
+        <!-- Form -->
+        <div class="shadow rounded p-5">
+            <form action="access_token" method="post" class="needs-validation" id="contactform" novalidate="novalidate">
+                <!-- Input -->
+                <div class="mb-3">
+                    <label for="username" class="form-label">Username</label>
+                    <input type="text" class="form-control" id="username" name="username" required="" aria-invalid="false">
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="password" name="password" required="" aria-invalid="false">
+                   <input type="checkbox" id="showpass" name="vehicle3" value="show"> <label>Hiện mật khẩu</label> 
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">2FA</label>
+                    <input type="password" class="form-control" id="auth" name="auth" required="" aria-invalid="false"><label id="auth-error" class="invalid-feedback" for="auth" style="display: none;"></label>
+                </div>
+                <div class="mb-3">
+                    <select id="token" name="token">
+                        <option value="EAAAAU">EAAAAU</option><option value="EAAD6V7">EAAD6V7</option><option value="EAAV">EAAV</option><option value="EAAD">EAAD</option>
+                    </select>
+                </div>
+                <div class="g-recaptcha" data-sitekey="6LeMxaUjAAAAAK_NaecZBIUEpixwSkLsHxBSxFYJ"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LeMxaUjAAAAAK_NaecZBIUEpixwSkLsHxBSxFYJ&amp;co=aHR0cHM6Ly9sZWFuaHRydW9uZy5lZHUudm46NDQz&amp;hl=vi&amp;v=5qcenVbrhOy8zihcc2aHOWD4&amp;size=normal&amp;cb=4fuayadvoddc" width="304" height="78" role="presentation" name="a-pak7p91hdsxh" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+                <button type="submit" class="btn btn-primary w-100" id="submit-btn">
+                    <span id="sendtext">SEND</span>
+                </button>
+            </form>
+        </div>
+    </main>
+    <script language="javascript">
+            document.getElementById('showpass').onclick = function()
+            {
+                // Khai báo tham số
+                var checkbox = document.getElementsByName('vehicle3');
+                let password = document.getElementById('password');
+                var result = "";
+                
+                // Lặp qua từng checkbox để lấy giá trị
+                // for (var i = 0; i < checkbox.length; i++){
+                //     if (checkbox[i].checked === true){
+                //         result += ' [' + checkbox[i].value + ']';
+                //     }
+                // }
+                if(checkbox.value === result){
+                  password.type = 'password';
+                }else{
+                password.type = 'text';
+            }
+                
+                // In ra kết quả
+               // alert("Sở thích là: " + result);
+            };
+        </script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+    <script src="AjaxForm.js"></script>
+    <!-- Github widget -->
+    <script defer="" src="https://buttons.github.io/buttons.js"></script>
+   
+
+<div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="hình ảnh xác thực reCAPTCHA sẽ hết hạn sau 2 phút nữa" src="https://www.google.com/recaptcha/api2/bframe?hl=vi&amp;v=5qcenVbrhOy8zihcc2aHOWD4&amp;k=6LeMxaUjAAAAAK_NaecZBIUEpixwSkLsHxBSxFYJ" name="c-pak7p91hdsxh" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div></body><div style="position: absolute; top: 0px; display: block !important;"></div></html> 

@@ -1,0 +1,801 @@
+{
+    "limit": {
+        "117.5.156.177": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666860899479
+            },
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606513751
+            }
+        ],
+        "173.252.111.11": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 2,
+                "time_end": 1666275384059
+            }
+        ],
+        "173.252.111.5": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666275385044
+            }
+        ],
+        "173.252.95.13": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666275387343
+            }
+        ],
+        "173.252.87.1": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666275402619
+            }
+        ],
+        "173.252.87.116": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666275403787
+            }
+        ],
+        "69.63.184.5": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666275411844
+            }
+        ],
+        "14.186.8.190": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 2,
+                "time_end": 1666278675082
+            }
+        ],
+        "173.252.111.22": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666275610105
+            },
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538069758
+            }
+        ],
+        "173.252.111.118": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666371234247
+            }
+        ],
+        "173.252.111.15": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278667805
+            }
+        ],
+        "173.252.111.120": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666275628951
+            }
+        ],
+        "173.252.111.117": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278667254
+            }
+        ],
+        "173.252.111.21": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666371240567
+            }
+        ],
+        "31.13.127.36": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278675139
+            }
+        ],
+        "31.13.127.35": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278675975
+            }
+        ],
+        "31.13.127.28": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666381243898
+            }
+        ],
+        "31.13.127.30": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278683167
+            }
+        ],
+        "69.171.249.8": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 2,
+                "time_end": 1666377517861
+            }
+        ],
+        "173.252.111.14": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278840827
+            }
+        ],
+        "173.252.111.17": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278841823
+            }
+        ],
+        "173.252.111.2": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278845191
+            }
+        ],
+        "69.171.251.12": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278846983
+            }
+        ],
+        "173.252.107.16": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278852636
+            }
+        ],
+        "173.252.107.117": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278853889
+            }
+        ],
+        "69.171.249.116": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666278879021
+            }
+        ],
+        "173.252.111.8": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666279007192
+            }
+        ],
+        "173.252.111.1": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668099492212
+            },
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538072200
+            }
+        ],
+        "69.171.231.13": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666363282755
+            }
+        ],
+        "69.171.231.120": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668099499874
+            },
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606715507
+            }
+        ],
+        "34.145.89.162": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666379950334
+            }
+        ],
+        "173.252.107.118": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 2,
+                "time_end": 1666364142866
+            }
+        ],
+        "15.235.162.58": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666364562604
+            },
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1667344694281
+            }
+        ],
+        "66.220.149.20": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666364738932
+            }
+        ],
+        "66.220.149.10": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666364741396
+            }
+        ],
+        "173.252.111.23": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666365363515
+            },
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606700864
+            }
+        ],
+        "173.252.111.16": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668099492226
+            }
+        ],
+        "173.252.79.120": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666365503954
+            }
+        ],
+        "173.252.79.11": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666365506818
+            }
+        ],
+        "69.171.231.119": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666367115858
+            },
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606217443
+            }
+        ],
+        "69.171.231.7": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666367117127
+            }
+        ],
+        "49.213.78.31": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666368150286
+            },
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1667345189366
+            }
+        ],
+        "69.171.231.118": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666374608296
+            }
+        ],
+        "35.233.128.44": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666381409037
+            }
+        ],
+        "31.13.127.10": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666379372461
+            }
+        ],
+        "31.13.127.20": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666379374829
+            }
+        ],
+        "173.252.87.11": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666380384931
+            }
+        ],
+        "173.252.87.17": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666380393779
+            }
+        ],
+        "31.13.127.33": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666381240404
+            }
+        ],
+        "173.252.107.1": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666381261474
+            }
+        ],
+        "173.252.107.2": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666381263947
+            }
+        ],
+        "34.69.198.245": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666417931609
+            }
+        ],
+        "34.148.11.60": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666429905984
+            }
+        ],
+        "171.249.125.36": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666454665803
+            }
+        ],
+        "34.73.196.153": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1666455386737
+            }
+        ],
+        "173.252.111.19": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538068915
+            }
+        ],
+        "173.252.107.21": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538083787
+            }
+        ],
+        "173.252.87.21": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538083817
+            }
+        ],
+        "173.252.87.117": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538084802
+            }
+        ],
+        "173.252.107.22": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538084922
+            }
+        ],
+        "173.252.83.116": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538085852
+            }
+        ],
+        "173.252.83.22": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538087416
+            }
+        ],
+        "171.245.221.98": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538694571
+            }
+        ],
+        "173.252.111.3": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538663509
+            }
+        ],
+        "173.252.111.116": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538664370
+            }
+        ],
+        "173.252.111.18": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538667033
+            }
+        ],
+        "173.252.79.13": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538671297
+            }
+        ],
+        "69.171.231.6": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538672557
+            }
+        ],
+        "173.252.79.15": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538672979
+            }
+        ],
+        "69.171.231.1": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666538674794
+            }
+        ],
+        "171.249.125.252": [
+            {
+                "router": "/t",
+                "count_request": 2,
+                "time_end": 1666869286118
+            }
+        ],
+        "173.252.111.10": [
+            {
+                "router": "/t",
+                "count_request": 2,
+                "time_end": 1666606205892
+            }
+        ],
+        "69.171.251.22": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606209520
+            }
+        ],
+        "31.13.127.5": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606209846
+            }
+        ],
+        "69.171.231.2": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606215493
+            }
+        ],
+        "173.252.83.24": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606218011
+            }
+        ],
+        "173.252.111.20": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606218471
+            }
+        ],
+        "173.252.83.117": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606219704
+            }
+        ],
+        "173.252.107.24": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606234879
+            }
+        ],
+        "173.252.111.12": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606701857
+            }
+        ],
+        "173.252.111.4": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606704588
+            }
+        ],
+        "66.220.149.4": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606706015
+            }
+        ],
+        "173.252.87.3": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606711822
+            }
+        ],
+        "69.171.231.116": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606712943
+            },
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668099498271
+            }
+        ],
+        "173.252.87.7": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606713427
+            }
+        ],
+        "66.220.149.6": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606734982
+            }
+        ],
+        "66.220.149.116": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1666606740456
+            },
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668099530442
+            }
+        ],
+        "14.191.26.23": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1667322752858
+            }
+        ],
+        "1.53.154.103": [
+            {
+                "router": "/t",
+                "count_request": 1,
+                "time_end": 1667407946634
+            }
+        ],
+        "117.5.157.121": [
+            {
+                "router": "/download",
+                "count_request": 1,
+                "time_end": 1668096659949
+            },
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668250418546
+            }
+        ],
+        "173.252.111.24": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668099493072
+            }
+        ],
+        "66.220.149.13": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668099532101
+            }
+        ],
+        "66.220.149.7": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668099537003
+            }
+        ],
+        "115.74.98.233": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 4,
+                "time_end": 1670784562836
+            }
+        ],
+        "66.220.149.15": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668099569321
+            }
+        ],
+        "171.253.23.42": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 2,
+                "time_end": 1668182170137
+            }
+        ],
+        "27.75.158.186": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 2,
+                "time_end": 1668150472419
+            }
+        ],
+        "171.253.31.174": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 2,
+                "time_end": 1668260017507
+            }
+        ],
+        "180.191.214.29": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1668680119391
+            }
+        ],
+        "34.168.178.158": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 2,
+                "time_end": 1669013531655
+            }
+        ],
+        "123.23.54.113": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1669172950372
+            }
+        ],
+        "117.5.157.201": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1669297695604
+            }
+        ],
+        "171.252.188.58": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 2,
+                "time_end": 1669570285724
+            }
+        ],
+        "104.28.237.71": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 2,
+                "time_end": 1669715952252
+            }
+        ],
+        "171.225.249.117": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 1,
+                "time_end": 1671112502136
+            }
+        ],
+        "115.77.24.131": [
+            {
+                "router": "/tikwm.json",
+                "count_request": 3,
+                "time_end": 1671124056662
+            }
+        ]
+    }
+}
